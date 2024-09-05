@@ -1,4 +1,4 @@
-package aula2.Lista1;
+package Aula1.Tarefa;
 
 import java.util.Scanner;
 /*

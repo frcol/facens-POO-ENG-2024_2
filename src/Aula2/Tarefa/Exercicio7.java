@@ -1,4 +1,4 @@
-package Aula3.Lista2;
+package Aula2.Tarefa;
 
 /*
 Exercício 7: Média de uma lista de números

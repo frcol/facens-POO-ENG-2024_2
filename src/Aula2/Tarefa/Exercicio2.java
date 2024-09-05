@@ -1,4 +1,4 @@
-package Aula3.Lista2;
+package Aula2.Tarefa;
 /*
 Exercício 2: Verificação de Número Par
 Crie uma função que receba um número inteiro como parâmetro e retorne verdadeiro se 
