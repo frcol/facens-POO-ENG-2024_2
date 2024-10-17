@@ -26,4 +26,9 @@ public class Pessoa {
     public void setNome(String nome) {
         this.nome = nome;
     }  
+    
+    public String imprimir() {
+        return "\nNome: " + nome
+                +"\nCPF: "+ cpf;
+    }
 }
