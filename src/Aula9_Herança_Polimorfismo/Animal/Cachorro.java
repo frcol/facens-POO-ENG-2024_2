@@ -8,10 +8,14 @@ public class Cachorro extends Animal {
 
     @Override
     public void fala() {
+        //super.fala();
+        
         System.out.println("Auauauauauauaua");
     }
 
-    
+    public void correr() {
+        System.out.println("Estou correndo...");
+    }
     
     
 }
